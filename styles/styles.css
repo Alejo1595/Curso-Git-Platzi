@@ -1,0 +1,25 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: rgb(23, 82, 211);
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(240, 103, 61);
+  padding: 1rem;
+  color: rgb(255, 255, 255);
+}
+
+p {
+  padding: 1rem;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 30px;
+}
