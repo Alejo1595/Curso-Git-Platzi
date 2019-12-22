@@ -11,12 +11,18 @@ body {
   color: rgb(255, 255, 255);
 }
 
-h1 {
-  text-align: center;
-  background-color: rgb(70, 70, 70);
-  padding: 1rem;
-  font-size: 1.8rem;
+header {
+  background-color: rgb(207, 135, 0);
+  padding: 1.65rem;
   text-transform: capitalize;
+}
+
+header h1 {
+  font-size: 2.2rem;
+}
+
+header h1 span {
+  font-size: 1.5rem;
 }
 
 p {
@@ -24,7 +30,7 @@ p {
   text-align: justify;
   font-size: 20px;
   line-height: 30px;
-  background-color: rgb(105, 105, 105);
+  background-color: rgb(80, 80, 80);
 }
 
 .container {
