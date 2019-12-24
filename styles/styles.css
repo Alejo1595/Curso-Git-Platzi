@@ -13,8 +13,8 @@ body {
 }
 
 header {
-  background-color: rgb(207, 93, 0);
-  padding: 1.65rem;
+  background-color: rgb(207, 93, 10);
+  padding: 1.55rem;
   text-transform: capitalize;
   text-align: center;
 
@@ -39,6 +39,14 @@ p {
   font-size: 20px;
   line-height: 30px;
   background-color: rgb(80, 80, 80);
+}
+
+footer {
+  background-color: rgb(63, 63, 63);
+  padding: 1.2rem;
+  text-align: right;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.3rem;
 }
 
 .container {
