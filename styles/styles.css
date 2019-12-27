@@ -44,9 +44,10 @@ p {
 footer {
   background-color: rgb(63, 63, 63);
   padding: 1.2rem;
-  text-align: right;
+  text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 1.3rem;
+  text-transform: capitalize;
 }
 
 .container {
