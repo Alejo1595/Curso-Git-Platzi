@@ -87,3 +87,4 @@ Un tag nos ayuda a llevar el versionamiento de nuestro app, ademas de poder reco
 - git tag -a [nombre tag] -m [mensaje del tag][commit]: permite crear un tag con un mensaje en un commit en especifico.
 - git tag -d [nombre tag]: Permite eliminar un tag de manera local.
 - git push origin :refs/tags/[nombre tag]: Permite eliminar tags de manera remota.
+- git show-ref --tags: Mostrara los tags y a que commit estan unidos.
